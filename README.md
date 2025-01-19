@@ -97,8 +97,8 @@ Member "1" --> "*" Transaction
 Member "1" --> "*" Activity 
 ```
 <br>
-## Attached is the Link to Lucidchart for UMl Class Diagram and UMl UseCase Diagram.
+# Attached is the Link to Lucidchart for UMl Class Diagram and UMl UseCase Diagram.
 i. https://lucid.app/lucidchart/7fccaa90-21f7-4791-9506-6b9c8146a1f1/edit?viewport_loc=80%2C-1780%2C940%2C669%2CRC9J8Qj_Aj0r&invitationId=inv_62cdb4af-50c0-410b-a9c1-d1980665b1a1
 <br>
-## The Link to Medium for My Article on UMl Versions, Tools, and My findings Using Lucidchart as the Tool.
+# The Link to Medium for My Article on UMl Versions, Tools, and My findings Using Lucidchart as the Tool.
 https://medium.com/@okoyechukwunonso17/uml-versions-modeling-tools-and-lucidchart-3f128cfb393e
